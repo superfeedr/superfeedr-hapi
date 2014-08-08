@@ -85,7 +85,7 @@ exports.register = function (plugin, options, next) {
   });
 
   // Expose the events
-  plugin.expose('on', plugin.events.on);
+  plugin.expose('events', plugin.events);
 
 
   plugin.route({
