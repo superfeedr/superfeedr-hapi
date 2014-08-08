@@ -1,6 +1,6 @@
 {
   "name": "hapi-superfeedr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a re-usable [Hapi](http://hapijs.com/) plugin for [Superfeedr](https://superfeedr.com/)",
   "main": "superfeedr.js",
   "author": "Superfeedr",

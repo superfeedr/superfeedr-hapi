@@ -27,7 +27,7 @@ server.pack.register({plugin: superfeedr, options: superfeedrOptions},  function
     console.error('Failed to load a plugin:', err);
   }
 });
-```javascript
+```
 
 Later, anywhere your app you can invoke the following:
 
