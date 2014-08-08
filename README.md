@@ -1,4 +1,5 @@
-# Hapi-superfeedr
+superfeedr-hapi
+===============
 
 This is a re-usable [Hapi](http://hapijs.com/) plugin for [Superfeedr](https://superfeedr.com/). It implements a small subset of [PubSubHubbub API calls](http://documentation.superfeedr.com/subscribers.html#webhooks) to allow the following:
  * subscribe
